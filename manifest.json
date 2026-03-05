@@ -1,0 +1,25 @@
+{
+  "name": "Calculadora de Sueldo",
+  "short_name": "Calc. Sueldo",
+  "description": "Calculadora de sueldo por turnos",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a2980",
+  "theme_color": "#1a2980",
+  "icons": [
+    {
+      "src": "./icon192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
